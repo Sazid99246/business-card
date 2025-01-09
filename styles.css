@@ -14,12 +14,8 @@ p {
     margin-bottom: 5px;
 }
 
-a {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
+i:hover {
+    color: dodgerblue;
 }
 
 .business-card {
